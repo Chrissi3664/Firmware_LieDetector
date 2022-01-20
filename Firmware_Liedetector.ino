@@ -1,6 +1,7 @@
 #include <Wire.h>
 #include "MAX30105.h"
 
+
 MAX30105 particleSensor;
 
 bool MODE_GREEN_ONLY = true;
